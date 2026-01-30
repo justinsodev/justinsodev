@@ -7,4 +7,3 @@ My work focuses on turning complex ideas into reliable, production-ready solutio
 ## 📬 Contact
 - 📧 **Email:** jssolution34@gmail.com  
 - 🌐 **Website:** https://sojustindev.vercel.app  
-- 💼 **LinkedIn:** https://linkedin.com/in/justin-so-solution/
